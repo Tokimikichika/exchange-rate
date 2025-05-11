@@ -30,6 +30,6 @@ http://localhost:8000
 ```
 
 Технологии
-PHP (для backend API)
-HTML/CSS (Bootstrap 5 для стилей)
-JavaScript (Fetch API для запросов)
+- PHP (для backend API)
+- HTML/CSS (Bootstrap 5 для стилей)
+- JavaScript (Fetch API для запросов)
