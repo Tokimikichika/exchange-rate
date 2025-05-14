@@ -15,7 +15,7 @@
     <script>
         async function fetchDate() {
             try {
-                const response = await fetch('http://localhost:8000/api/rate.php');
+                const response = await fetch('http://localhost:8000/api/DollarRate.php');
                 const data = await response.json(); 
                 document.getElementById('rate').textContent = `1 USD = ${data.rate} RUB`;
             } catch (error) {

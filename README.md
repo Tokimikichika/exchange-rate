@@ -5,7 +5,7 @@
 ### Запуск сервера
 
 ```
-php -S localhost:8000
+php -S localhost:8000 -t src
 ```
 
 #### После запуска откройте в браузере:
@@ -20,8 +20,16 @@ http://localhost:8000
 Для запуска тестов выполните:
 
 ```
-./vendor/bin/phpunit tests/
+./vendor/bin/phpunit
 ```
+
+### Linter
+Для запуска linter выполните:
+
+```
+./vendor/bin/php-cs-fixer fix --dry-run --diff
+```
+
 
 Технологии
 - PHP (для backend API)
