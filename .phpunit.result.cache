@@ -1,1 +1,1 @@
-{"version":1,"defects":{"RateTest::testApiReturnsValidJson":7},"times":{"RateTest::testApiReturnsValidJson":0.206}}
+{"version":1,"defects":{"RateTest::testApiReturnsValidJson":7},"times":{"RateTest::testApiReturnsValidJson":0.003}}

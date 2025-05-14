@@ -30,7 +30,6 @@ http://localhost:8000
 ./vendor/bin/php-cs-fixer fix --dry-run --diff
 ```
 
-
 Технологии
 - PHP (для backend API)
 - HTML/CSS (Bootstrap 5 для стилей)
