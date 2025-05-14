@@ -1,6 +1,6 @@
 {
   "name": "tokimikichika/exchange-rate",
-  "description": "<A simple PHP library and frontend for displaying USD to RUB exchange rate from the Central Bank.",
+  "description": "A simple PHP library and frontend for displaying USD to RUB exchange rate from the Central Bank.",
   "type": "library",
   "license": "MIT",
   "authors": [
