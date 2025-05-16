@@ -12,8 +12,8 @@ php -S localhost:8000 -t src
 http://localhost:8000
 
 #### Как это работает
-- Frontend (index.html) делает запрос к API (/api/rate.php)
-- Backend (rate.php) получает актуальный курс доллара с сайта ЦБ РФ
+- Frontend (index.html) делает запрос к API (/api/DollarRate.php)
+- Backend (DollarRate.php) получает актуальный курс доллара с сайта ЦБ РФ
 - Данные возвращаются в формате JSON и отображаются на странице
 
 ### Тестирование

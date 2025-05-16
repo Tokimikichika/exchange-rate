@@ -77,6 +77,10 @@ class ComposerStaticInit39887bc392446682c04c314d20c5bed6
             'Composer\\Pcre\\' => 14,
             'Clue\\React\\NDJson\\' => 18,
         ),
+        'A' => 
+        array (
+            'App\\' => 4,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
@@ -219,6 +223,10 @@ class ComposerStaticInit39887bc392446682c04c314d20c5bed6
         'Clue\\React\\NDJson\\' => 
         array (
             0 => __DIR__ . '/..' . '/clue/ndjson-react/src',
+        ),
+        'App\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 
